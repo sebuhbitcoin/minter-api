@@ -1,8 +1,8 @@
 {
   "provider": "pinata",
   "pinata": {
-    "apiKey": "aed43b842051f2ea0741",
-    "apiSecret": "473fe6ce7e762786a0b3d9284cb99a0e3fb404d6a25556f4f4951d986b5550d1"
+    "apiKey": "",
+    "apiSecret": ""
   },
   "fleek": {
     "apiKey": "",
